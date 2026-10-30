@@ -148,7 +148,7 @@ gh auth login
 
 **2. Crie o repositório no GitHub** (pelo site ou com `gh repo create`).
 
-**3. digita agora:
+**3. digita agora, Para Iniciar:**
 
 ```bash
 git init
@@ -161,6 +161,14 @@ git init
 ```bash
 ghpush --remote https://github.com/seu-usuario/tv-online.git
 ```
+
+**5. DEPOIS DE ENVIAR SEU PROJETO, ATUALIZA COM UM COMANDO:**
+
+```bash
+ghpush
+```
+
+
 
 Pronto — o projeto está publicado. Esse único comando inicializa o git se ainda não existir, gera um `.gitignore` sensato, adiciona os arquivos, cria o commit e envia para o repositório informado.
 
