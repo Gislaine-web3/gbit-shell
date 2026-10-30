@@ -148,7 +148,15 @@ gh auth login
 
 **2. Crie o repositório no GitHub** (pelo site ou com `gh repo create`).
 
-**3. Publique tudo com um comando:**
+**3. digita agora:
+
+```bash
+git init
+```
+
+
+
+**4. Publique tudo com um comando:**
 
 ```bash
 ghpush --remote https://github.com/seu-usuario/tv-online.git
