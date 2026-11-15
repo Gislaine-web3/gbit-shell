@@ -17,6 +17,12 @@
 
 ---
 
+
+p align="center">
+  <img src="assets/banner-terminal.png" alt="GBit Shell: seu terminal inteligente no VS Code" width="100%">
+</p>
+
+
 ## O que é
 
 GBit Shell é uma segunda opção de terminal para quem já usa Git Bash, PowerShell ou Zsh. Ele roda sobre o shell do sistema, então seus comandos habituais continuam funcionando exatamente como antes — só que agora com prompt informativo, autocompletar de verdade, e comandos como `ghpush`, `ports` e `killport` que eliminam tarefas repetitivas.
