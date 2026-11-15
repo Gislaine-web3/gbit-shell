@@ -1,19 +1,15 @@
 <p align="center">
-  <img src="assets/banner-gbit-shell.png" alt="GBit Shell">
+  <img src="assets/banner-gbit-shell.png" alt="GBit Shell: seu terminal inteligente no VS Code" width="100%">
 </p>
 
-<h1 align="center"> GBit Shell para VS Code
-
-Adiciona o GBit Shell a lista de terminais integrados do VS Code.</h1>
-
-<p align="center"> 
-  Terminal interativo moderno para desenvolvimento — prompt inteligente, integração com Git,<br>
-  comandos de produtividade, e perfil próprio para o terminal integrado do VS Code.
+<p align="center">
+  Adiciona o GBit Shell à lista de terminais integrados do VS Code.<br>
+  Prompt inteligente, integração com Git e publicação no GitHub com um comando.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/gbit-shell?style=for-the-badge&label=npm&color=CB3837&logo=npm&logoColor=white" alt="npm version">
-  <img src="https://img.shields.io/badge/versao-1.0.0-blue" alt="versão">
+  <img src="https://img.shields.io/badge/versao-1.0.4-blue" alt="versão">
   <img src="https://img.shields.io/badge/python-3.9%2B-green" alt="python">
   <img src="https://img.shields.io/badge/licenca-MIT-orange" alt="licença">
   <img src="https://img.shields.io/badge/testes-136%20passando-brightgreen" alt="testes">
@@ -33,10 +29,6 @@ O prompt fica assim:
 gislaine@DESKTOP-D1QAMU7   GBIT   ~/web3-hub   (main)
 ❯
 ```
-
-
-<p align="center"> <img src="assets/terminal-banner.png" alt="GBIT-SHELL — Auto Repair & Start" width="1200" > </p>
-
 
 
 <div align="center">
@@ -179,6 +171,13 @@ winget install --id GitHub.cli
 ---
 
 ## O comando que dá nome ao projeto
+
+<p align="center">
+  <img src="assets/banner-terminal.png" width="780" alt="GBit Shell rodando gh auth login, git init e ghpush --remote">
+</p>
+
+Na primeira vez: `gh auth login`. No projeto: `git init`. Depois: `ghpush --remote https://github.com/seu-usuario/seu-repo.git`
+
 
 ```bash
 ghpush
@@ -462,7 +461,8 @@ gbit-shell/
 ├── tools/
 │   └── build_vsix.py           empacota a extensão sem depender do Node
 ├── assets/
-│   └── banner-gbit-shell.png   banner do projeto
+│   ├── banner-gbit-shell.png   banner do topo do README
+│   └── banner-terminal.png     banner da publicacao no GitHub
 ├── tests/
 │   ├── test_shell.py           núcleo do shell
 │   └── test_jobs_project.py    jobs e configuração de projeto
@@ -516,5 +516,5 @@ MIT
 ## Autor
 
 Gislaine Lopes · gbit-ecossistema, open source
-📧 gislainelopes@gmail.com
+E-mail: [gislainelophes@gmail.com](mailto:gislainelophes@gmail.com)
 

@@ -1,0 +1,5 @@
+.vscode/**
+node_modules/**
+**/*.vsix
+icon-novo-*.png
+*.zip
