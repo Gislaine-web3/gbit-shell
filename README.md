@@ -1,12 +1,24 @@
-&#x20;\<p align="center">   \<img src="assets/banner-gbit-shell.png" alt="GBit Shell — Terminal inteligente para VS Code" width="100%"> \</p>
+<p align="center">
+  <img src="assets/banner-gbit-shell.png" alt="GBit Shell — Terminal inteligente para VS Code" width="100%">
+</p>
 
-\<h1 align="center">GBit Shell para VS Code\</h1>
+<h1 align="center">GBit Shell para VS Code</h1>
 
-\<p align="center">   Adicione o GBit Shell à lista de terminais integrados do VS Code. \</p>
+<p align="center">
+  Adicione o GBit Shell à lista de terminais integrados do VS Code.
+</p>
 
-\<p align="center">   Terminal interativo moderno para desenvolvimento — prompt inteligente, integração com Git,   autocompletar contextual, comandos de produtividade e perfil próprio no VS Code. \</p>
+<p align="center">
+  Terminal interativo moderno para desenvolvimento — prompt inteligente, integração com Git, autocompletar contextual, comandos de produtividade e perfil próprio no VS Code.
+</p>
 
-\<p align="center">   \<img src="[https://img.shields.io/npm/v/gbit-shell?style=for-the-badge&label=npm&color=CB3837&logo=npm&logoColor=white](https://img.shields.io/npm/v/gbit-shell?style=for-the-badge\&label=npm\&color=CB3837\&logo=npm\&logoColor=white)" alt="Versão npm">   \<img src="[https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)" alt="Versão">   \<img src="[https://img.shields.io/badge/python-3.9%2B-green?style=for-the-badge](https://img.shields.io/badge/python-3.9%2B-green?style=for-the-badge)" alt="Python">   \<img src="[https://img.shields.io/badge/license-MIT-orange?style=for-the-badge](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)" alt="Licença">   \<img src="[https://img.shields.io/badge/tests-136%20passing-brightgreen?style=for-the-badge](https://img.shields.io/badge/tests-136%20passing-brightgreen?style=for-the-badge)" alt="Testes"> \</p>
+<p align="center">
+  <img src="https://img.shields.io/npm/v/gbit-shell?style=for-the-badge&label=npm&color=CB3837&logo=npm&logoColor=white" alt="Versão npm">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/python-3.9%2B-green?style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/license-MIT-orange?style=for-the-badge" alt="Licença">
+  <img src="https://img.shields.io/badge/tests-136%20passing-brightgreen?style=for-the-badge" alt="Testes">
+</p>
 
 ---
 
@@ -35,7 +47,9 @@ gislaine@DESKTOP-D1QAMU7   GBIT   ~/web3-hub   (main)
 ❯
 ```
 
-\<p align="center">   \<img src="assets/terminal-banner.png" alt="GBit Shell — Auto Repair & Start" width="100%"> \</p>
+<p align="center">
+  <img src="assets/terminal-banner.png" alt="GBit Shell — Auto Repair & Start" width="100%">
+</p>
 
 Cada elemento do prompt tem uma função: usuário e máquina, identificação GBIT, diretório atual, estado do Git, ambiente virtual Python e identificação de projetos Node.js.
 
@@ -45,7 +59,9 @@ Cada elemento do prompt tem uma função: usuário e máquina, identificação G
 
 Utilize o GBit Shell como um terminal integrado ao Visual Studio Code, ao lado de opções como PowerShell, CMD e Git Bash.
 
-\<p align="center">   \<img src="assets/banner-shell.png" alt="GBit Shell aberto no terminal integrado do VS Code" width="100%"> \</p>
+<p align="center">
+  <img src="assets/banner-shell.png" alt="GBit Shell aberto no terminal integrado do VS Code" width="100%">
+</p>
 
 ---
 
