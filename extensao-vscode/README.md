@@ -1,31 +1,37 @@
+
 <p align="center">
-  <img src="assets/banner-gbit-shell.png" alt="GBit Shell: seu terminal inteligente no VS Code" width="100%">
+  <img src="assets/banner-gbit-shell.png" alt="GBit Shell - Terminal inteligente no VS Code" width="100%">
 </p>
 
 <p align="center">
-  Adiciona o GBit Shell à lista de terminais integrados do VS Code.<br>
-  Prompt inteligente, integração com Git e publicação no GitHub com um comando.
+  Um terminal inteligente integrado ao VS Code.
+  <br>
+  Prompt personalizado, Bash Auto Complete, integração com Git e publicação no GitHub com um comando.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/gbit-shell?style=for-the-badge&label=npm&color=CB3837&logo=npm&logoColor=white" alt="npm version">
-  <img src="https://img.shields.io/badge/versao-1.0.4-blue" alt="versão">
-  <img src="https://img.shields.io/badge/python-3.9%2B-green" alt="python">
-  <img src="https://img.shields.io/badge/licenca-MIT-orange" alt="licença">
-  <img src="https://img.shields.io/badge/testes-136%20passando-brightgreen" alt="testes">
+  <img src="https://img.shields.io/badge/version-1.0.4-blue?style=for-the-badge" alt="versão">
+  <img src="https://img.shields.io/badge/python-3.9%2B-green?style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/license-MIT-orange?style=for-the-badge" alt="Licença">
+  <img src="https://img.shields.io/badge/tests-136%20passing-brightgreen?style=for-the-badge" alt="Testes">
 </p>
 
 ---
 
-
-p align="center">
-  <img src="assets/banner-terminal.png" alt="GBit Shell: seu terminal inteligente no VS Code" width="100%">
+<p align="center">
+  <img src="assets/banner-terminal.png" alt="GBit Shell em execução" width="100%">
 </p>
 
+## Apresentação
 
-## O que é
+GBit Shell é uma segunda opção de terminal para quem já usa Git Bash, PowerShell ou Zsh.
 
-GBit Shell é uma segunda opção de terminal para quem já usa Git Bash, PowerShell ou Zsh. Ele roda sobre o shell do sistema, então seus comandos habituais continuam funcionando exatamente como antes — só que agora com prompt informativo, autocompletar de verdade, e comandos como `ghpush`, `ports` e `killport` que eliminam tarefas repetitivas.
+
+
+ 
+GBit Shell é uma segunda opção de terminal para quem já usa Git Bash, PowerShell ou Zsh.
+ Ele roda sobre o shell do sistema, então seus comandos habituais continuam funcionando exatamente como antes — só que agora com prompt informativo, autocompletar de verdade, e comandos como `ghpush`, `ports` e `killport` que eliminam tarefas repetitivas.
 
 É um shell interativo escrito em Python, que roda igual no Windows, macOS e Linux, e também se instala como perfil de terminal integrado no VS Code, junto com PowerShell, cmd e Git Bash.
 
@@ -44,7 +50,17 @@ Cada trecho tem um propósito: usuário e máquina, o selo do projeto, o caminho
 
 ---
 
-## Instalação
+## Modo DE Uso Direto Na Extensao Do Vs Code 
+
+
+<p align="center">
+  <img src="assets/banner-shell.png" alt="GBit Shell: seu terminal inteligente no VS Code" width="100%">
+</p>
+
+
+
+
+## Instalação Pacote NPM Outa opcao:
 
 **Via npx** — não instala nada permanentemente
 
@@ -81,7 +97,7 @@ gbit
 
 ---
 
-## Usar dentro do VS Code
+## Usar dentro do VS Code modo cli
 
 Adiciona o GBit Shell à lista de terminais integrados do VS Code, junto com PowerShell, cmd e Git Bash.
 
