@@ -524,3 +524,5 @@ MIT
 Gislaine Lopes · gbit-ecossistema, open source
 E-mail: [gislainelophes@gmail.com](mailto:gislainelophes@gmail.com)
 
+https://github.com/gislaine-web3/gbit-shell`
+
