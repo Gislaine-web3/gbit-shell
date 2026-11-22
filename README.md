@@ -254,14 +254,14 @@ git init
 Para informar um repositório remoto e enviar todo o projeto de uma vez:
 
 ```bash
-ghpush --remote [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+ghpush --remote  https://github.com/Gislaine-web3/gbit-shell.git
 ```
 
 
 Com uma mensagem de commit personalizada:
 
 ```bash
-ghpush -m "Atualiza readme"
+ghpush -m "Atualiza Readme"
 ```
 
 ou para commit:
