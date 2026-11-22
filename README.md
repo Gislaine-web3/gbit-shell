@@ -126,6 +126,18 @@ A extensão GBit Shell está publicada no Visual Studio Marketplace.
 
 > Caso o perfil não apareça imediatamente após a instalação, recarregue a janela do VS Code e consulte as instruções da extensão.
 
+## 💻 Integração com o VS Code
+
+Utilize o GBit Shell como um perfil próprio de terminal, ao lado de opções como PowerShell, CMD e Git Bash.
+
+<p align="center">
+  <img
+    src="assets/banner-shell.png"
+    alt="GBit Shell no terminal integrado do Visual Studio Code"
+    width="100%"
+  >
+</p>
+
 ### ⚡ Opção 2 — executar pelo npm
 
 Para abrir sem uma instalação global permanente:
@@ -144,6 +156,13 @@ Depois, abra com:
 
 ```bash
 gbit
+```
+
+ E Abaixa a extensao do vscode usando o cli 
+
+
+```bash
+vscode
 ```
 
 Para atualizar a instalação global do npm:
@@ -168,6 +187,13 @@ Abra o terminal:
 gbit
 ```
 
+ Abrir a extensao do vscode com o cli:
+
+
+```bash
+vscode
+```
+ 
 Para atualizar:
 
 ```bash
@@ -215,9 +241,22 @@ Você escolhe como trabalhar: com os comandos próprios do GBit Shell ou com o f
 
 Dentro da pasta do projeto:
 
+
 ```bash
-ghpush
+gh auth login
 ```
+
+
+```bash
+git init
+```
+
+Para informar um repositório remoto e enviar todo o projeto de uma vez:
+
+```bash
+ghpush --remote [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+```
+
 
 Com uma mensagem de commit personalizada:
 
@@ -225,13 +264,18 @@ Com uma mensagem de commit personalizada:
 ghpush -m "feat: adiciona nova funcionalidade"
 ```
 
-Para informar um repositório remoto:
 
 ```bash
-ghpush --remote [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+ghpush
 ```
 
+
 O comando reúne etapas do fluxo de publicação, conforme o estado do projeto e a configuração do ambiente.
+
+
+<p align="center">
+  <img src="assets/banner-terminal.png" alt="GBit Shell em execução" width="100%">
+</p>
 
 > Revise as alterações antes de executar comandos de publicação. Não envie senhas, tokens, arquivos `.env` com segredos ou outras credenciais para o repositório.
 
@@ -293,19 +337,6 @@ Para consultar as opções disponíveis na sua versão, abra a ajuda dentro do G
 help
 ```
 
-> Confira a porta e o processo antes de usar comandos de encerramento. Eles podem interromper um servidor ou outro programa em execução.
-
-## 💻 Integração com o VS Code
-
-Utilize o GBit Shell como um perfil próprio de terminal, ao lado de opções como PowerShell, CMD e Git Bash.
-
-<p align="center">
-  <img
-    src="assets/banner-shell.png"
-    alt="GBit Shell no terminal integrado do Visual Studio Code"
-    width="100%"
-  >
-</p>
 
 ### Integração pela CLI
 
@@ -334,6 +365,7 @@ vscode --build
 | `npx gbit-shell` | Executa o GBit Shell pelo npm |
 | `npm install -g gbit-shell` | Instala a CLI globalmente pelo npm |
 | `gbit` | Abre o shell após a instalação |
+| `vscode` | Abre o terminal gbit  shell após a instalação |
 | `python -m pip install gbit-shell` | Instala pelo Python |
 | `gh auth login` | Inicia a autenticação da GitHub CLI |
 
