@@ -261,7 +261,13 @@ ghpush --remote [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://git
 Com uma mensagem de commit personalizada:
 
 ```bash
-ghpush -m "feat: adiciona nova funcionalidade"
+ghpush -m "Atualiza readme"
+```
+
+ou para commit:
+
+```bash
+ ghpush -m "docs: atualiza README"
 ```
 
 
