@@ -6,6 +6,25 @@
   >
 </p>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=55&lines=GBit+Shell+%7C+Developer+Terminal;Your+Terminal+Inside+VS+Code;Git+%2B+GitHub+Integrated;Automate+Your+Development+Workflow;Code.+Commit.+Push.+Deploy." alt="GBit Shell animated typing" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gislaine-web3&repo=gbit-shell&color=2563EB&style=for-the-badge&label=PROJECT+VIEWS" alt="Project views" />
+</p>
+
+<p align="center">
+  **Terminal + GitHub, integrados ao VS Code.**
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gislaine-web3/gbit-shell">
+    <img src="https://img.shields.io/badge/GitHub-GBit%20Shell-181717?style=for-the-badge&logo=github" alt="GitHub repository" />
+  </a>
+</p>
+
 <h1 align="center">GBit Shell</h1>
 
 <p align="center">
@@ -79,17 +98,7 @@
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=gbit+shell+terminal+extensao+vscode;npm+gbit+shell;terminal+auto+complete+github;gh+remmote+limk repositorio+envia+projeto+para+github&center=true&width=500&height=45">
-</p
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer;AI+Engineer;Blockchain+Developer;DevOps+Engineer&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Gislaine-web3&color=blue">
-</p>
 
 ## ✨ O que é o GBit Shell?
 
