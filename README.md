@@ -79,6 +79,11 @@
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=gbit-shell+terminal+extensao vascode;npm+gbit-shell;terminal auto complete+github;gh remmote limk repositorio+envia projeto para github&center=true&width=500&height=45">
+</p
+
+
 ## ✨ O que é o GBit Shell?
 
 GBit Shell é um shell interativo desenvolvido em Python para tornar o trabalho no terminal mais organizado e produtivo.
