@@ -83,6 +83,13 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=gbit+shell+terminal+extensao+vscode;npm+gbit+shell;terminal+auto+complete+github;gh+remmote+limk repositorio+envia+projeto+para+github&center=true&width=500&height=45">
 </p
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer;AI+Engineer;Blockchain+Developer;DevOps+Engineer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Gislaine-web3&color=blue">
+</p>
 
 ## ✨ O que é o GBit Shell?
 
